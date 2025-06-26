@@ -12,7 +12,7 @@
 	<artifactId>registration-login-authentication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>registration-login-authentication</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Registration, login, authentication, email verification, schedule consultation and contact message api.</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -85,7 +85,7 @@
 </dependency>
 <dependency>
     <groupId>io.jsonwebtoken</groupId>
-    <artifactId>jjwt-jackson</artifactId> <!-- or jjwt-gson if you prefer -->
+    <artifactId>jjwt-jackson</artifactId> <!-- or jjwt-gson if one prefer -->
     <version>0.11.5</version>
     <scope>runtime</scope>
 </dependency>
