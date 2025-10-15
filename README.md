@@ -43,6 +43,8 @@ POST /api/auth/consultation/schedule → Schedule consultation
 
 POST /api/auth/contact → Submit contact message
 
+---
+
 **Learnings**
 -Implemented JWT-based authentication and stateless sessions
 -Integrated email verification and password reset functionality
