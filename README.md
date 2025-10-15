@@ -20,14 +20,6 @@ Spring Boot, Spring Security, MySQL, JPA, Hibernate, JWT, JavaMailSender, Maven,
 
 ---
 
-## Setup
-1. Clone the repository:  
-```bash
-git clone https://github.com/GouriShastri04/Registration-Login-Authentication-System.git
-Configure application.properties with your MySQL database and email credentials
-
----
-
 **## API Endpoints**
 POST /api/auth/register → Register a new user
 
